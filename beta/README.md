@@ -1,0 +1,1 @@
+Hello. This course turned out to be a bit difficult for me, so I did not have time to complete all the tasks on time. I will complete the task in the near future. You сan write to me in discord: bigMialkovskyi # 0616. Thanks for understanding.
