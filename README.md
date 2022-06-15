@@ -14,3 +14,4 @@ Product-service API:
 /swagger: https://app.swaggerhub.com/apis/VLADMALPRO37/shop-be/1.0.0
 
 Link to FE: https://d2e9b8763t9dc1.cloudfront.net
+Link to FE repositorie: https://github.com/bigMialkovskyi/shop-vue-vuex-cloudfront
