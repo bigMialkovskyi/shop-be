@@ -2,10 +2,10 @@ Service is done, FE is working as expected.
 
 Additional scope:
 
-ES6 modules are used for product-service implementation
-Lambda handlers (getProductsList, getProductsById) code is written not in 1 single module (file) and separated in codebase
-SWAGGER documentation is created for product-service
-Main error scenarious are handled by API ("Product not found" error)
+POST/products lambda functions returns error 400 status code if product data is invalid
+All lambdas return error 500 status code on any error (DB connection, any unhandled error in code)
+All lambdas do console.log for each incoming requests and their arguments
+Transaction based creation of product
 
 Product-service API:
 
